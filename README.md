@@ -4,7 +4,7 @@
 
 
 
-- What was your motivation?
+
 I want to create a web application that can track my progress on the BootCamp and provide me with a platform which I can update with newfound knowledge as a I progress through the Bootcamp. It should serve as a reminder of past tasks completed, and provide a framework for my development goals. I hope I can come back to this application in the future to see what new skills I have learnt, when, and how I implemented them. It will serve as a nice little reminder of how far I have progressed over time as it will allow me to track my knowledge progression. I need a place where I can store all information pertaining to the Bootcamp assignments, so this application serves that purpose. I have learnt web applications are built fromm HTML, JS and CSS so far, and implemented a few lines of code for each to enable the barebones content of the application. 
 
 
